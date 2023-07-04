@@ -1,0 +1,4 @@
+﻿  CMySocket.cpp
+C:\Users\sebas\source\repos\Ethernet_2\CMySocket.cpp(9,10): fatal  error C1083: No se puede abrir el archivo incluir: 'stdafx.h': No such file or directory
+  Ethernet_2Dlg.cpp
+  Generando código...
